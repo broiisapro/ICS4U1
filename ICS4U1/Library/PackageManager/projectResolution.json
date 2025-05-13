@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "/Users/moksh/ICS4U1/ICS4U1/Packages",
+    "projectPath": "/Users/moksh/Code/NoHesi/ICS4U1/Packages",
     "unityVersion": "6000.1.1f1"
   },
   "inputs": [
-    "/Users/moksh/ICS4U1/ICS4U1/Packages/manifest.json",
-    "/Users/moksh/ICS4U1/ICS4U1/Packages/packages-lock.json",
+    "/Users/moksh/Code/NoHesi/ICS4U1/Packages/manifest.json",
+    "/Users/moksh/Code/NoHesi/ICS4U1/Packages/packages-lock.json",
     "/Applications/Unity/Hub/Editor/6000.1.1f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.collab-proxy@2.8.1": {
       "name": "com.unity.collab-proxy",
       "displayName": "Version Control",
-      "resolvedPath": "/Users/moksh/ICS4U1/ICS4U1/Library/PackageCache/com.unity.collab-proxy@946053a44d19",
+      "resolvedPath": "/Users/moksh/Code/NoHesi/ICS4U1/Library/PackageCache/com.unity.collab-proxy@946053a44d19",
       "fingerprint": "946053a44d19ed7bf32864432d78cbd5830e46f3",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.8.1",
@@ -22,7 +22,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "/Users/moksh/ICS4U1/ICS4U1/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "/Users/moksh/Code/NoHesi/ICS4U1/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",

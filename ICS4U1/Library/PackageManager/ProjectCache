@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/moksh/ICS4U1/ICS4U1/Packages/manifest.json
+    m_FilePath: /Users/moksh/Code/NoHesi/ICS4U1/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638820673350000000
     m_Hash: 3037804331
   m_LockFileStatus:
-    m_FilePath: /Users/moksh/ICS4U1/ICS4U1/Packages/packages-lock.json
+    m_FilePath: /Users/moksh/Code/NoHesi/ICS4U1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/moksh/ICS4U1/ICS4U1/Packages
+m_ProjectPath: /Users/moksh/Code/NoHesi/ICS4U1/Packages
 m_EditorVersion: 6000.1.1f1 (7197418f847b)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@2.8.1
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.8.1
   source: 1
-  resolvedPath: /Users/moksh/ICS4U1/ICS4U1/Library/PackageCache/com.unity.collab-proxy@946053a44d19
+  resolvedPath: /Users/moksh/Code/NoHesi/ICS4U1/Library/PackageCache/com.unity.collab-proxy@946053a44d19
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -228,7 +228,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/moksh/ICS4U1/ICS4U1/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: /Users/moksh/Code/NoHesi/ICS4U1/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
